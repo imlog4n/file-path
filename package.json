@@ -1,0 +1,24 @@
+{
+  "name": "file-path",
+  "version": "1.0.0",
+  "description": "Get the file path from your device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imlog4n/file-path.git"
+  },
+  "keywords": [
+    "file",
+    "path",
+    "root"
+  ],
+  "author": "Logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imlog4n/file-path/issues"
+  },
+  "homepage": "https://github.com/imlog4n/file-path#readme"
+}
