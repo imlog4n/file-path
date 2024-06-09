@@ -1,5 +1,5 @@
 {
-  "name": "file-path",
+  "name": "filepathjs",
   "version": "1.0.0",
   "description": "Get the file path from your device",
   "main": "index.js",
