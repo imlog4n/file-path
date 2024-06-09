@@ -1,6 +1,6 @@
 {
   "name": "filepathjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the file path from your device",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/imlog4n/file-path/issues"
   },
-  "homepage": "https://github.com/imlog4n/file-path#readme"
+  "homepage": "https://github.com/imlog4n/file-path#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

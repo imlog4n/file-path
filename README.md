@@ -40,3 +40,6 @@ No parameters
 Returns the current file path
 <br>
 <code>console.log(file.this);</code>
+
+# file.router (with Express)
+<code>file.router.(get, post, put or delete)(fileName, path)</code> Returns a file to the client
