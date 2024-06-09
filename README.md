@@ -2,7 +2,7 @@
 Welcome to File Path!
 
 # Step 1: Setup
-Run in terminal: npm install file-path OR npm i file-path
+Run in terminal: npm install filepathjs OR npm i filepathjs
 <br>
 Create <i>index.js</i> file
 <br>
