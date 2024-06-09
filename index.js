@@ -12,6 +12,7 @@ const file = {
     root: "",
     this: __filename,
     router: {
+        port: app.listen,
         get: (fileName, path) => {
             app.get(path || "/", (req, res) => {
                 res.sendFile(file.new(fileName));

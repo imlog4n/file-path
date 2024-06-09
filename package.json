@@ -1,6 +1,6 @@
 {
   "name": "filepathjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the file path from your device, built-in Express router!",
   "main": "index.js",
   "scripts": {
