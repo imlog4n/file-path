@@ -1,11 +1,9 @@
 {
   "name": "filepathjs",
-  "version": "1.0.2",
-  "description": "Get the file path from your device, built-in Express router!",
+  "version": "1.0.6",
+  "description": "Get the full file path from your device, built-in Express router!",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/imlog4n/file-path.git"
@@ -14,7 +12,13 @@
     "file",
     "path",
     "root",
-    "express"
+    "express",
+    "app",
+    "server",
+    "router",
+    "route",
+    "website",
+    "device"
   ],
   "author": "Logan",
   "license": "ISC",
