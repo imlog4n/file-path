@@ -1,7 +1,7 @@
 {
   "name": "filepathjs",
   "version": "1.0.1",
-  "description": "Get the file path from your device",
+  "description": "Get the file path from your device, built-in Express router!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "file",
     "path",
-    "root"
+    "root",
+    "express"
   ],
   "author": "Logan",
   "license": "ISC",
